@@ -1,0 +1,189 @@
+[
+    {
+      "id": 1,
+      "question": "GDSC là viết tắt của?",
+      "options": [
+        "Google Developer Student Clubs",
+        "Global Developer School Camp",
+        "Great Data Science Club",
+        "Green Data Science Community"
+      ],
+      "answer": "Google Developer Student Clubs"
+    },
+    {
+      "id": 2,
+      "question": "GDSC có bao nhiêu ban và kể tên?",
+      "options": [
+        "Technology, BusiLoMa, Medev, Human RS",
+        "Technology, Marketing, Logistics, Business",
+        "Human RS, Media, Logistics, Event",
+        "Media, Tech, Sport, BusiLoMa"
+      ],
+      "answer": "Technology, BusiLoMa, Medev, Human RS"
+    },
+    {
+      "id": 3,
+      "question": "Linh vật của GDSC là gì?",
+      "options": [
+        "Quạ - Crow Buddy",
+        "Sói - Wolf",
+        "Rồng - Dragon",
+        "Hổ - Tiger"
+      ],
+      "answer": "Quạ - Crow Buddy"
+    },
+    {
+      "id": 4,
+      "question": "Hand Sign của GDSC là gì?",
+      "options": [
+        "Hand sign là 2 tay làm chữ V",
+        "Hand sign là nắm tay phải lên",
+        "Hand sign là tạo hình trái tim",
+        "Hand sign là bắt chéo hai tay"
+      ],
+      "answer": "Hand sign là 2 tay làm chữ V"
+    },
+    {
+      "id": 5,
+      "question": "Trong clb GDSC có 1 ban là BusiLoMa, vậy tên ban là viết tắt của những từ nào?",
+      "options": [
+        "Business, Logictics, Maketing",
+        "Business, Management, Media",
+        "Business, Logistics, Marketing",
+        "Business, Money, Marketing"
+      ],
+      "answer": "Business, Logictics, Maketing"
+    },
+    {
+      "id": 6,
+      "question": "Hiện tại ở Đà Nẵng GDSC có bao nhiêu chapter? Liệt kê.",
+      "options": [
+        "4 chapters (DTU, FPT, Greenwich, Bách Khoa)",
+        "3 chapters (FPT, DTU, Greenwich)",
+        "5 chapters (DTU, FPT, Bách Khoa, Duy Tân, Greenwich)",
+        "2 chapters (FPT, Greenwich)"
+      ],
+      "answer": "4 chapters (DTU, FPT, Greenwich, Bách Khoa)"
+    },
+    {
+      "id": 7,
+      "question": "Chủ nhiệm hiện tại của clb hiện tại là ai?",
+      "options": [
+        "Đinh Trần Yến Vy",
+        "Nguyễn Văn A",
+        "Trần Hoàng Bảo",
+        "Lê Thị Kim Chi"
+      ],
+      "answer": "Đinh Trần Yến Vy"
+    },
+    {
+      "id": 8,
+      "question": "Làm thế nào để tham gia vào GDSC?",
+      "options": [
+        "Đăng ký qua trang web chính thức hoặc tham gia các sự kiện và hoạt động của câu lạc bộ tại trường",
+        "Liên hệ qua email của ban chủ nhiệm",
+        "Tham gia qua lời mời của thành viên hiện tại",
+        "Nộp đơn xin việc tại câu lạc bộ"
+      ],
+      "answer": "Đăng ký qua trang web chính thức hoặc tham gia các sự kiện và hoạt động của câu lạc bộ tại trường"
+    },
+    {
+      "id": 9,
+      "question": "Ở clb có 1 ban gọi là Medev, vậy nó là viết tắt của từ gì?",
+      "options": [
+        "Media & Event",
+        "Medical & Development",
+        "Media & Venture",
+        "Management & Event"
+      ],
+      "answer": "Media & Event"
+    },
+    {
+      "id": 10,
+      "question": "Mục tiêu chính của GDSC là gì?",
+      "options": [
+        "Tạo ra một môi trường học tập và chia sẻ kiến thức về công nghệ, cũng như thúc đẩy sự sáng tạo và phát triển cá nhân cho sinh viên",
+        "Tổ chức các sự kiện giao lưu thể thao",
+        "Đào tạo kỹ năng giao tiếp cho sinh viên",
+        "Phát triển kỹ năng lãnh đạo"
+      ],
+      "answer": "Tạo ra một môi trường học tập và chia sẻ kiến thức về công nghệ, cũng như thúc đẩy sự sáng tạo và phát triển cá nhân cho sinh viên"
+    },
+    {
+      "id": 11,
+      "question": "Tới thời điểm hiện tại thì GDSC FPTU đã trải qua bao nhiêu đời chủ nhiệm",
+      "options": [
+        "Chưa rõ",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": ""
+    },
+    {
+      "id": 12,
+      "question": "GDSC có sự kiện nào nổi bật được tổ chức thường niên hằng năm?",
+      "options": [
+        "Info session",
+        "Hackathon",
+        "Job fair",
+        "Tech talk"
+      ],
+      "answer": "Info session"
+    },
+    {
+      "id": 13,
+      "question": "Kể tên một thành tựu hoặc giải thưởng của clb GDSC DPTU",
+      "options": [
+        "Chưa rõ",
+        "Giải thưởng công nghệ xuất sắc",
+        "Thành tựu trong lĩnh vực đổi mới sáng tạo",
+        "Giải thưởng đào tạo xuất sắc"
+      ],
+      "answer": ""
+    },
+    {
+      "id": 14,
+      "question": "Ai có thể tham gia clb GDSC?",
+      "options": [
+        "Tất cả các sinh viên đang theo học tất cả các ngành có quan tâm đến công nghệ đều được chào đón",
+        "Chỉ sinh viên ngành Công nghệ thông tin",
+        "Chỉ sinh viên có thành tích học tập cao",
+        "Sinh viên từ năm 3 trở lên"
+      ],
+      "answer": "Tất cả các sinh viên đang theo học tất cả các ngành có quan tâm đến công nghệ đều được chào đón"
+    },
+    {
+      "id": 15,
+      "question": "GDSC được vinh danh là CLB xuất xắc nhất và kì nào năm nào?",
+      "options": [
+        "Kì Fall 2023",
+        "Kì Spring 2022",
+        "Kì Summer 2021",
+        "Kì Winter 2020"
+      ],
+      "answer": "Kì Fall 2023"
+    },
+    {
+      "id": 16,
+      "question": "Đặc trưng của GDSC là những màu nào?",
+      "options": [
+        "4 màu: đỏ, xanh dương, xanh lá, vàng",
+        "3 màu: đỏ, xanh lá, trắng",
+        "2 màu: xanh dương, vàng",
+        "5 màu: đỏ, đen, xanh dương, xanh lá, trắng"
+      ],
+      "answer": "4 màu: đỏ, xanh dương, xanh lá, vàng"
+    },
+    {
+      "id": 17,
+      "question": "Waifu 2d của clb có tên là gì?",
+      "options": [
+        "Chưa rõ",
+        "Sakura",
+        "Yuki",
+        "Akira"
+      ],
+      "answer": ""
+    }
+  ]
