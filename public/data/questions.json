@@ -8,29 +8,32 @@
         "Great Data Science Club",
         "Green Data Science Community"
       ],
-      "answer": "Google Developer Student Clubs"
+      "answer": "Google Developer Student Clubs",
+      "selection": null
     },
     {
       "id": 2,
       "question": "GDSC có bao nhiêu ban và kể tên?",
       "options": [
-        "Technology, BusiLoMa, Medev, Human RS",
+        "Technology, BusiLoMa, Medev, Human Resources",
         "Technology, Marketing, Logistics, Business",
-        "Human RS, Media, Logistics, Event",
+        "Human Resources, Media, Logistics, Event",
         "Media, Tech, Sport, BusiLoMa"
       ],
-      "answer": "Technology, BusiLoMa, Medev, Human RS"
+      "answer": "Technology, BusiLoMa, Medev, Human Resources",
+      "selection": null
     },
     {
       "id": 3,
       "question": "Linh vật của GDSC là gì?",
       "options": [
         "Quạ - Crow Buddy",
-        "Sói - Wolf",
-        "Rồng - Dragon",
-        "Hổ - Tiger"
+        "Sói - Wolf Buddy",
+        "Rồng - Dragon Buddy",
+        "Hổ - Tiger Buddy"
       ],
-      "answer": "Quạ - Crow Buddy"
+      "answer": "Quạ - Crow Buddy",
+      "selection": null
     },
     {
       "id": 4,
@@ -41,7 +44,8 @@
         "Hand sign là tạo hình trái tim",
         "Hand sign là bắt chéo hai tay"
       ],
-      "answer": "Hand sign là 2 tay làm chữ V"
+      "answer": "Hand sign là 2 tay làm chữ V",
+      "selection": null
     },
     {
       "id": 5,
@@ -52,7 +56,8 @@
         "Business, Logistics, Marketing",
         "Business, Money, Marketing"
       ],
-      "answer": "Business, Logictics, Maketing"
+      "answer": "Business, Logictics, Maketing",
+      "selection": null
     },
     {
       "id": 6,
@@ -63,7 +68,8 @@
         "5 chapters (DTU, FPT, Bách Khoa, Duy Tân, Greenwich)",
         "2 chapters (FPT, Greenwich)"
       ],
-      "answer": "4 chapters (DTU, FPT, Greenwich, Bách Khoa)"
+      "answer": "4 chapters (DTU, FPT, Greenwich, Bách Khoa)",
+      "selection": null
     },
     {
       "id": 7,
@@ -74,7 +80,8 @@
         "Trần Hoàng Bảo",
         "Lê Thị Kim Chi"
       ],
-      "answer": "Đinh Trần Yến Vy"
+      "answer": "Đinh Trần Yến Vy",
+      "selection": null
     },
     {
       "id": 8,
@@ -85,7 +92,8 @@
         "Tham gia qua lời mời của thành viên hiện tại",
         "Nộp đơn xin việc tại câu lạc bộ"
       ],
-      "answer": "Đăng ký qua trang web chính thức hoặc tham gia các sự kiện và hoạt động của câu lạc bộ tại trường"
+      "answer": "Đăng ký qua trang web chính thức hoặc tham gia các sự kiện và hoạt động của câu lạc bộ tại trường",
+      "selection": null
     },
     {
       "id": 9,
@@ -96,7 +104,8 @@
         "Media & Venture",
         "Management & Event"
       ],
-      "answer": "Media & Event"
+      "answer": "Media & Event",
+      "selection": null
     },
     {
       "id": 10,
@@ -107,18 +116,20 @@
         "Đào tạo kỹ năng giao tiếp cho sinh viên",
         "Phát triển kỹ năng lãnh đạo"
       ],
-      "answer": "Tạo ra một môi trường học tập và chia sẻ kiến thức về công nghệ, cũng như thúc đẩy sự sáng tạo và phát triển cá nhân cho sinh viên"
+      "answer": "Tạo ra một môi trường học tập và chia sẻ kiến thức về công nghệ, cũng như thúc đẩy sự sáng tạo và phát triển cá nhân cho sinh viên",
+      "selection": null
     },
     {
       "id": 11,
       "question": "Tới thời điểm hiện tại thì GDSC FPTU đã trải qua bao nhiêu đời chủ nhiệm",
       "options": [
-        "Chưa rõ",
         "1",
         "2",
-        "3"
+        "3",
+        "4"
       ],
-      "answer": ""
+      "answer": "4",
+      "selection": null
     },
     {
       "id": 12,
@@ -129,18 +140,8 @@
         "Job fair",
         "Tech talk"
       ],
-      "answer": "Info session"
-    },
-    {
-      "id": 13,
-      "question": "Kể tên một thành tựu hoặc giải thưởng của clb GDSC DPTU",
-      "options": [
-        "Chưa rõ",
-        "Giải thưởng công nghệ xuất sắc",
-        "Thành tựu trong lĩnh vực đổi mới sáng tạo",
-        "Giải thưởng đào tạo xuất sắc"
-      ],
-      "answer": ""
+      "answer": "Info session",
+      "selection": null
     },
     {
       "id": 14,
@@ -151,7 +152,8 @@
         "Chỉ sinh viên có thành tích học tập cao",
         "Sinh viên từ năm 3 trở lên"
       ],
-      "answer": "Tất cả các sinh viên đang theo học tất cả các ngành có quan tâm đến công nghệ đều được chào đón"
+      "answer": "Tất cả các sinh viên đang theo học tất cả các ngành có quan tâm đến công nghệ đều được chào đón",
+      "selection": null
     },
     {
       "id": 15,
@@ -162,7 +164,8 @@
         "Kì Summer 2021",
         "Kì Winter 2020"
       ],
-      "answer": "Kì Fall 2023"
+      "answer": "Kì Fall 2023",
+      "selection": null
     },
     {
       "id": 16,
@@ -173,17 +176,7 @@
         "2 màu: xanh dương, vàng",
         "5 màu: đỏ, đen, xanh dương, xanh lá, trắng"
       ],
-      "answer": "4 màu: đỏ, xanh dương, xanh lá, vàng"
-    },
-    {
-      "id": 17,
-      "question": "Waifu 2d của clb có tên là gì?",
-      "options": [
-        "Chưa rõ",
-        "Sakura",
-        "Yuki",
-        "Akira"
-      ],
-      "answer": ""
+      "answer": "4 màu: đỏ, xanh dương, xanh lá, vàng",
+      "selection": null
     }
   ]

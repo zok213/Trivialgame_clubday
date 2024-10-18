@@ -8,6 +8,7 @@ interface QuestionProps {
     question: string;
     options: string[];
     answer: string;
+    selection: number | null;
   };
   hasButton?: boolean;
   onQuestionButtonClick: (selectedValue: any, currentQuestion: any) => void;
@@ -25,8 +26,11 @@ const Question = ({
 }: QuestionProps) => {
   const [answer, setAnswer] = useState<string | null>(null);
   const parseValue = (value: string | null) => (value ? parseInt(value.split("-")[1]) : null);
+  
   const handleButtonClick = () => {
-    onQuestionButtonClick(parseValue(answer), data.options.indexOf(data.answer));
+    const selection = parseValue(answer);
+    data['selection'] = selection;
+    onQuestionButtonClick(selection, data.options.indexOf(data.answer));
     setAnswer(null);
   }
 
@@ -57,6 +61,8 @@ const Question = ({
       }
     );
   }, [data]);
+
+  console.log()
 
   return (
     <div className="question">
