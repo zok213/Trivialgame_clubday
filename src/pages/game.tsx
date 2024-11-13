@@ -42,7 +42,7 @@ function Game() {
     if (questionNo.value > index) {
       return "#fff";
     } else if (questionNo.value === index) {
-      return "#29b5d5";
+      return "#2951D5FF";
     } else {
       return "rgba(255,255,255,.2)";
     }

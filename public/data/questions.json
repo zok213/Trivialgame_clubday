@@ -1,182 +1,230 @@
 [
-    {
+  {
       "id": 1,
-      "question": "GDSC là viết tắt của?",
+      "question": "ITSC là viết tắt của?",
       "options": [
-        "Google Developer Student Clubs",
-        "Global Developer School Camp",
-        "Great Data Science Club",
-        "Green Data Science Community"
+          "Information Technology Student Council",
+          "Innovative Technology Student Clubs",
+          "International Technical Science Community",
+          "Institute of Technology and Science Collaboration"
       ],
-      "answer": "Google Developer Student Clubs",
+      "answer": "Innovative Technology Student Clubs",
       "selection": null
-    },
-    {
+  },
+  {
       "id": 2,
-      "question": "GDSC có bao nhiêu ban và kể tên?",
+      "question": "ITSC có bao nhiêu ban và kể tên?",
       "options": [
-        "Technology, BusiLoMa, Medev, Human Resources",
-        "Technology, Marketing, Logistics, Business",
-        "Human Resources, Media, Logistics, Event",
-        "Media, Tech, Sport, BusiLoMa"
+          "Technology, Marketing, Logistics",
+          "Human Resources, Media, Event",
+          "Media, Tech, Sport",
+          "Technology, Medev, Human Resources"
       ],
-      "answer": "Technology, BusiLoMa, Medev, Human Resources",
+      "answer": "Technology, Medev, Human Resources",
       "selection": null
-    },
-    {
+  },
+  {
       "id": 3,
-      "question": "Linh vật của GDSC là gì?",
+      "question": "Linh vật của ITSC là gì?",
       "options": [
-        "Quạ - Crow Buddy",
-        "Sói - Wolf Buddy",
-        "Rồng - Dragon Buddy",
-        "Hổ - Tiger Buddy"
+          "Hổ - Tiger Buddy",
+          "Rồng - Dragon Buddy",
+          "Quạ - Crow Buddy",
+          "Sói - Wolf Buddy"
       ],
       "answer": "Quạ - Crow Buddy",
       "selection": null
-    },
-    {
+  },
+  {
       "id": 4,
-      "question": "Hand Sign của GDSC là gì?",
+      "question": "Solana Superteam là gì đối với ITSC?",
       "options": [
-        "Hand sign là 2 tay làm chữ V",
-        "Hand sign là nắm tay phải lên",
-        "Hand sign là tạo hình trái tim",
-        "Hand sign là bắt chéo hai tay"
+          "Nhà cung cấp đồ ăn nhanh",
+          "Đối tác thể thao của CLB",
+          "Nền tảng học trực tuyến",
+          "Đối tác hỗ trợ và đào tạo về công nghệ blockchain"
       ],
-      "answer": "Hand sign là 2 tay làm chữ V",
+      "answer": "Đối tác hỗ trợ và đào tạo về công nghệ blockchain",
       "selection": null
-    },
-    {
+  },
+  {
       "id": 5,
-      "question": "Trong clb GDSC có 1 ban là BusiLoMa, vậy tên ban là viết tắt của những từ nào?",
+      "question": "Thành viên ITSC nhận được lợi ích gì từ Solana Superteam?",
       "options": [
-        "Business, Logictics, Maketing",
-        "Business, Management, Media",
-        "Business, Logistics, Marketing",
-        "Business, Money, Marketing"
+          "Khóa học về quản lý tài chính cá nhân",
+          "Vé xem phim miễn phí",
+          "Chỉ nhận phần thưởng hiện kim",
+          "Chứng nhận kỹ năng công nghệ và cơ hội học tập chuyên sâu"
       ],
-      "answer": "Business, Logictics, Maketing",
+      "answer": "Chứng nhận kỹ năng công nghệ và cơ hội học tập chuyên sâu",
       "selection": null
-    },
-    {
+  },
+  {
       "id": 6,
-      "question": "Hiện tại ở Đà Nẵng GDSC có bao nhiêu chapter? Liệt kê.",
+      "question": "ITSC thường tập trung vào những lĩnh vực công nghệ nào sau đây?",
       "options": [
-        "4 chapters (DTU, FPT, Greenwich, Bách Khoa)",
-        "3 chapters (FPT, DTU, Greenwich)",
-        "5 chapters (DTU, FPT, Bách Khoa, Duy Tân, Greenwich)",
-        "2 chapters (FPT, Greenwich)"
+          "Thời trang và mỹ thuật",
+          "Chăm sóc sức khỏe và y tế",
+          "Công nghệ nói chung, đặc biệt là AI và blockchain",
+          "Thể thao và giải trí"
       ],
-      "answer": "4 chapters (DTU, FPT, Greenwich, Bách Khoa)",
+      "answer": "Công nghệ nói chung, đặc biệt là AI và blockchain",
       "selection": null
-    },
-    {
+  },
+  {
       "id": 7,
       "question": "Chủ nhiệm hiện tại của clb hiện tại là ai?",
       "options": [
-        "Đinh Trần Yến Vy",
-        "Nguyễn Văn A",
-        "Trần Hoàng Bảo",
-        "Lê Thị Kim Chi"
+          "Nguyễn Văn A",
+          "Trần Hoàng Bảo",
+          "Lê Thị Kim Chi",
+          "Đinh Trần Yến Vy"
       ],
       "answer": "Đinh Trần Yến Vy",
       "selection": null
-    },
-    {
+  },
+  {
       "id": 8,
-      "question": "Làm thế nào để tham gia vào GDSC?",
+      "question": "Hệ sinh thái Solana có đặc điểm gì nổi bật?",
       "options": [
-        "Đăng ký qua trang web chính thức hoặc tham gia các sự kiện và hoạt động của câu lạc bộ tại trường",
-        "Liên hệ qua email của ban chủ nhiệm",
-        "Tham gia qua lời mời của thành viên hiện tại",
-        "Nộp đơn xin việc tại câu lạc bộ"
+          "Được sử dụng chủ yếu trong lĩnh vực tài chính truyền thống",
+          "Dễ bị tấn công và không bảo mật",
+          "Chỉ hỗ trợ các ứng dụng trò chơi trực tuyến",
+          "Khả năng xử lý hàng nghìn giao dịch mỗi giây với chi phí thấp"
       ],
-      "answer": "Đăng ký qua trang web chính thức hoặc tham gia các sự kiện và hoạt động của câu lạc bộ tại trường",
+      "answer": "Khả năng xử lý hàng nghìn giao dịch mỗi giây với chi phí thấp",
       "selection": null
-    },
-    {
+  },
+  {
       "id": 9,
-      "question": "Ở clb có 1 ban gọi là Medev, vậy nó là viết tắt của từ gì?",
+      "question": "Social Media Team trong ITSC có nhiệm vụ chính là gì?",
       "options": [
-        "Media & Event",
-        "Medical & Development",
-        "Media & Venture",
-        "Management & Event"
+          "Đào tạo các thành viên ITSC",
+          "Quản lý tài chính CLB",
+          "Quản lý các kênh truyền thông và tương tác với người theo dõi",
+          "Lập trình ứng dụng di động"
       ],
-      "answer": "Media & Event",
+      "answer": "Quản lý các kênh truyền thông và tương tác với người theo dõi",
       "selection": null
-    },
-    {
+  },
+  {
       "id": 10,
-      "question": "Mục tiêu chính của GDSC là gì?",
+      "question": "Mục tiêu chính của ITSC là gì?",
       "options": [
-        "Tạo ra một môi trường học tập và chia sẻ kiến thức về công nghệ, cũng như thúc đẩy sự sáng tạo và phát triển cá nhân cho sinh viên",
-        "Tổ chức các sự kiện giao lưu thể thao",
-        "Đào tạo kỹ năng giao tiếp cho sinh viên",
-        "Phát triển kỹ năng lãnh đạo"
+          "Phát triển kỹ năng lãnh đạo",
+          "Đào tạo kỹ năng giao tiếp cho sinh viên",
+          "Tổ chức các sự kiện giao lưu thể thao",
+          "Tạo ra một môi trường học tập và chia sẻ kiến thức về công nghệ, cũng như thúc đẩy sự sáng tạo và phát triển cá nhân cho sinh viên"
       ],
       "answer": "Tạo ra một môi trường học tập và chia sẻ kiến thức về công nghệ, cũng như thúc đẩy sự sáng tạo và phát triển cá nhân cho sinh viên",
       "selection": null
-    },
-    {
+  },
+  {
       "id": 11,
-      "question": "Tới thời điểm hiện tại thì GDSC FPTU đã trải qua bao nhiêu đời chủ nhiệm",
+      "question": "Content Creator của ITSC thường làm gì?",
       "options": [
-        "1",
-        "2",
-        "3",
-        "4"
+          "Lập trình các ứng dụng blockchain",
+          "Chỉ đạo các sự kiện âm nhạc",
+          "Quản lý nhân sự cho CLB",
+          "Viết bài và sáng tạo nội dung mới theo xu hướng"
       ],
-      "answer": "4",
+      "answer": "Viết bài và sáng tạo nội dung mới theo xu hướng",
       "selection": null
-    },
-    {
+  },
+  {
       "id": 12,
-      "question": "GDSC có sự kiện nào nổi bật được tổ chức thường niên hằng năm?",
+      "question": "Token của hệ sinh thái Solana là gì?",
       "options": [
-        "Info session",
-        "Hackathon",
-        "Job fair",
-        "Tech talk"
+          "XRP",
+          "BTC",
+          "SOL",
+          "ETH"
       ],
-      "answer": "Info session",
+      "answer": "SOL",
       "selection": null
-    },
-    {
-      "id": 14,
-      "question": "Ai có thể tham gia clb GDSC?",
+  },
+  {
+      "id": 13,
+      "question": "Ai có thể tham gia clb ITSC?",
       "options": [
-        "Tất cả các sinh viên đang theo học tất cả các ngành có quan tâm đến công nghệ đều được chào đón",
-        "Chỉ sinh viên ngành Công nghệ thông tin",
-        "Chỉ sinh viên có thành tích học tập cao",
-        "Sinh viên từ năm 3 trở lên"
+          "Tất cả các sinh viên đang theo học tất cả các ngành có quan tâm đến công nghệ đều được chào đón",
+          "Chỉ sinh viên ngành Công nghệ thông tin",
+          "Chỉ sinh viên có thành tích học tập cao",
+          "Sinh viên từ năm 3 trở lên"
       ],
       "answer": "Tất cả các sinh viên đang theo học tất cả các ngành có quan tâm đến công nghệ đều được chào đón",
       "selection": null
-    },
-    {
+  },
+  {
+      "id": 14,
+      "question": "HR Team trong ITSC có nhiệm vụ gì?",
+      "options": [
+          "Phát triển ứng dụng blockchain",
+          "Quản lý và hỗ trợ các thành viên, điều phối nhân sự phù hợp",
+          "Thiết kế nội dung truyền thông",
+          "Lập trình hệ thống thông tin"
+      ],
+      "answer": "Quản lý và hỗ trợ các thành viên, điều phối nhân sự phù hợp",
+      "selection": null
+  },
+  {
       "id": 15,
-      "question": "GDSC được vinh danh là CLB xuất xắc nhất và kì nào năm nào?",
+      "question": "Công việc chính của Designer trong ITSC là gì?",
       "options": [
-        "Kì Fall 2023",
-        "Kì Spring 2022",
-        "Kì Summer 2021",
-        "Kì Winter 2020"
+          "Phân tích dữ liệu tài chính",
+          "Quản lý dự án công nghệ",
+          "Dạy các lớp học lập trình",
+          "Tạo ra các sản phẩm truyền thông như poster, banner"
       ],
-      "answer": "Kì Fall 2023",
+      "answer": "Tạo ra các sản phẩm truyền thông như poster, banner",
       "selection": null
-    },
-    {
+  },
+  {
       "id": 16,
-      "question": "Đặc trưng của GDSC là những màu nào?",
+      "question": "Chỉ những người có kiến thức về AI hoặc Blockchain được tham gia CLB?",
       "options": [
-        "4 màu: đỏ, xanh dương, xanh lá, vàng",
-        "3 màu: đỏ, xanh lá, trắng",
-        "2 màu: xanh dương, vàng",
-        "5 màu: đỏ, đen, xanh dương, xanh lá, trắng"
+          "Tất cả mọi người mọi chuyên ngành chỉ cần có niềm đam mê hứng thú đến công nghệ hoặc chỉ là for fun ^^",
+          "Chỉ sinh viên ngành công nghệ thông tin",
+          "Chỉ những người có kinh nghiệm về AI",
+          "Chỉ những người có kinh nghiệm về Blockchain"
       ],
-      "answer": "4 màu: đỏ, xanh dương, xanh lá, vàng",
+      "answer": "Tất cả mọi người mọi chuyên ngành chỉ cần có niềm đam mê hứng thú đến công nghệ hoặc chỉ là for fun ^^",
       "selection": null
-    }
-  ]
+  },
+  {
+      "id": 17,
+      "question": "Solana là gì?",
+      "options": [
+          "Một mạng xã hội phổ biến",
+          "Một blockchain phi tập trung với tốc độ cao và chi phí thấp, thường được sử dụng cho các ứng dụng phi tập trung và tài chính",
+          "Một nền tảng học trực tuyến",
+          "Một hệ điều hành cho điện thoại di động"
+      ],
+      "answer": "Một blockchain phi tập trung với tốc độ cao và chi phí thấp, thường được sử dụng cho các ứng dụng phi tập trung và tài chính",
+      "selection": null
+  },
+  {
+      "id": 18,
+      "question": "Blockchain là gì?",
+      "options": [
+          "Một loại dữ liệu trên máy tính",
+          "Một công nghệ lưu trữ dữ liệu phân tán cho phép thực hiện giao dịch an toàn, minh bạch và không cần trung gian",
+          "Một ngôn ngữ lập trình",
+          "Một phương pháp bảo mật dữ liệu"
+      ],
+      "answer": "Một công nghệ lưu trữ dữ liệu phân tán cho phép thực hiện giao dịch an toàn, minh bạch và không cần trung gian",
+      "selection": null
+  },
+  {
+      "id": 19,
+      "question": "AI là gì?",
+      "options": [
+          "Trí tuệ nhân tạo, cho phép máy móc thực hiện các nhiệm vụ thường yêu cầu trí thông minh của con người",
+          "Một phương pháp bảo mật dữ liệu",
+          "Một hệ thống lưu trữ dữ liệu",
+          "Một công nghệ để phát triển các trang web"
+      ],
+      "answer": "Trí tuệ nhân tạo, cho phép máy móc thực hiện các nhiệm vụ thường yêu cầu trí thông minh của con người",
+      "selection": null
+  }
+]

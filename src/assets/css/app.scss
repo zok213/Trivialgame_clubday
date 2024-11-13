@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&display=swap");
 
 $font: "Be Vietnam Pro", sans-serif;
-$color: #1f8197;
+$color: #311f97;
 
 * {
   box-sizing: border-box;
@@ -26,7 +26,7 @@ body {
   align-items: center;
   &:after {
     content: "";
-    background-image: url();
+    background-image: url(../img/bg.svg);
     position: absolute;
     left: 0;
     top: 0;
@@ -144,13 +144,13 @@ body {
   border-radius: 12px;
   overflow: auto;
   flex-shrink: 0;
-  color: #000;
+  color: #ffffff;
   position: relative;
   display: flex;
   align-items: center;
   background: linear-gradient(
       251deg,
-      #00b8ff52 -53%,
+      #008cff52 -53%,
       rgba(255, 255, 255, 0) 65%
     ),
     center / cover;
